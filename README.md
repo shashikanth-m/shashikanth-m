@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashikanth Maddhi
 
-<!--
-**shashikanth-m/shashikanth-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & DevOps Engineer | Azure | Terraform | Jenkins | Docker | CI/CD | AKS | GitHub Actions | PowerShell 
 
-Here are some ideas to get you started:
+🔧 I design and automate infrastructure, build CI/CD pipelines, and manage cloud deployments at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- ☁️ Azure | Azure VMSS | Azure CLI | Azure Monitor
+- 🛠️ Terraform | PowerShell | Bash
+- 🔄 Jenkins | GitHub Actions
+- 📦 Docker | Kubernetes (AKS)
+- 📈 Monitoring: Azure Monitor | Log Analytics | Grafana
+
+## 📂 Projects (Coming Soon)
+- 🔧 Azure Infra-as-Code with Terraform: Deploying 2048 Game
+- 🐳 Dockerized Node App with Jenkins CI/CD Pipeline
+- ☁️ Azure AKS Monitoring with Prometheus + Grafana
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shashikanth-maddhi/)
+- 📍 Bellevue, WA | Open to Full-time DevOps/Cloud Roles
