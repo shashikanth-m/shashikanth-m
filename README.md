@@ -11,10 +11,17 @@
 - 📦 Docker | Kubernetes (AKS)
 - 📈 Monitoring: Azure Monitor | Log Analytics | Grafana
 
-## 📂 Projects (Coming Soon)
-- 🔧 Azure Infra-as-Code with Terraform: Deploying 2048 Game
-- 🐳 Dockerized Node App with Jenkins CI/CD Pipeline
-- ☁️ Azure AKS Monitoring with Prometheus + Grafana
+##📂 Projects
+
+🔧 **Azure Infra-as-Code with Terraform**  
+Built a Terraform automation pipeline to deploy Azure infrastructure for the 2048 game — hands-on with modules, state management, and resource provisioning.
+
+🚧 **Upcoming: Dockerized Node.js App with Jenkins CI/CD Pipeline**  
+Currently learning containerization and pipeline automation with Jenkins, aiming to build a scalable CI/CD pipeline soon.
+
+🚧 **Upcoming: Azure AKS Monitoring with Prometheus & Grafana**  
+In progress: setting up end-to-end monitoring solutions on Azure Kubernetes Service using Prometheus and Grafana dashboards.
+
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shashikanth-maddhi/)
